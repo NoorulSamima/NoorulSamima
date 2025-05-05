@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoorulSamima
-- 👀 I’m interested in web development, Full Stack Development, web designing& software engineering...
-- 🌱 I’m currently learning data analytics course in Accenture, already done Java J2EE Web Development Internship, Web development using PHP, Full Stack Development in python
-- 📫 Reach me through my mail noorulsamima@gmail.com
+- 👀 I’m interested in Software Development, DevOps, Web development, Full Stack Development...
+- 🌱 I’m currently sharpening my DSA skills in python already done Java J2EE Web Development Internship, Web development using PHP, Full Stack Development in python
+- 📫 Reach me through my mail noorulsamima@gmail.com or on LinkedIn @noorul-samima
 - 😄 Pronouns: Ms
 - ⚡ Fun fact: ...
 
